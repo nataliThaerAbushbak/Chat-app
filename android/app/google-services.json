@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955529046615",
+    "project_id": "chatap-e0e73",
+    "storage_bucket": "chatap-e0e73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955529046615:android:df73470e96cebcf0329112",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoUMVoADBeC0C6hfgHps0QTZNAKZwFZ1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
